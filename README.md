@@ -72,13 +72,13 @@ This project is structured as a set of Python scripts that define the agent, env
     ```
 
 ## 💻 Project Structure
-```
-.<br>
+`
+.
 ├── Agent.py          # Defines the DQN Agent architecture<br>
 ├── Environment.py    # Defines the simulated FMCG Market Environment<br>
 ├── Train.py          # Main script to train the agent<br>
 └── Evaluation.py     # Script to evaluate and visualize the trained agent's performance
-```
+`
 
 ## 📜 License
 
